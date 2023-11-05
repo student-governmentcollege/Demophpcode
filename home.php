@@ -11,7 +11,7 @@
  <hr>
  <form>
  <div class="cantener">
- <a href="insertionForm.php">Insert Data Record </a></br>
+ <a href="index.php">Insert Data Record </a></br>
  <a href="view.php">View Data Record </a></br>
  <a href="updateForm.php">Update Data Record </a></br>
  <a href="deleteForm.php">Delete Data Record</a></br>
